@@ -1,0 +1,8 @@
+{
+  "name": "SmartQ",
+  "description": "SmartQ is a patient-flow and queue coordination platform for Nepal with bilingual Nepali/English support, multi-role workspaces for patients, receptionists, doctors, lab technicians, cashiers, pharmacists, and administrators, plus public TV displays.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
